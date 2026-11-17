@@ -35,7 +35,6 @@ themeButton.addEventListener("click", function () {
   message.textContent = "The entire website has coloured. Again.";
 });
 
-// Button 3: randomly changes text
 const surprises = [
   "A tree has been notified.",
   "You have achieved maximum digital greenness.",
